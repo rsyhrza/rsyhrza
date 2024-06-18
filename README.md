@@ -14,13 +14,13 @@ Alongside mastering C++, I expanded my skills to include Lua, Python, and JavaSc
   <img alt="c" src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white" />
   <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" /></p>
 - **Secondary Languages**: <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 </p>
+
 ## Experience
 - **FiveM Server Developer (2018-2021)**: Developed Lua scripts for FiveM servers to enhance server functionality.
 - **Lua Scripting for Client Requests**: Collaborated with clients to create customized Lua scripts.
